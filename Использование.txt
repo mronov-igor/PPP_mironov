@@ -1,0 +1,5 @@
+cd C:\Users\miron\Практикум\Практическая работа №1
+
+python server.py --host localhost --port 12345 --interval 10 --programs_file programs.json --programs_dir programs file1.py file2.py
+
+python client.py
